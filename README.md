@@ -1,5 +1,5 @@
 # reconocedordebilletes
-Reconocedor de denominación de billetes para personas en situacion de discapaciad visual. Concretamente un lector de billetes para ciegos.
+Reconocedor de denominación de billetes para personas en situacion de discapaciad visual. Concretamente, un lector de billetes para ciegos.
 
 Creemos importante que este proyecto sea un proyecto de código abierto y disponible para todos, es por ello que nos interesa de sobremanera que se puedan sumar todos los que quieran participar.
  
